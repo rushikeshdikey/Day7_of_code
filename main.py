@@ -1,4 +1,4 @@
-# start to python day-6 code
+# start to python day-7 code
 # starting code is basics learned
 # main project code at end
 
